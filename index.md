@@ -1,5 +1,5 @@
 1. Is location important?
-==
+---
 
 *Example: Proposed South Side dog parks:*
 [And link to the story](http://www.chicagotribune.com/news/local/breaking/ct-chicago-dog-park-north-side-met-20170126-story.html)
