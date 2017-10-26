@@ -50,5 +50,7 @@
 # 10. Would the combination of different kinds of elements help tell a better story? #
 
 **Example: Chicago's potential Amazon HQ2 sites:**
+
 [And link to the story](http://www.chicagotribune.com/business/ori/ct-biz-amazon-hq2-sites-unveiled-ryan-ori-20171020-story.html)
+
 [And link to the story](http://www.chicagotribune.com/business/ori/ct-amazon-chicago-locations-handicapped-20171020-htmlstory.html)
